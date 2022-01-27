@@ -1,3 +1,3 @@
 echo "Amit"
-echo $date
+date
 echo "Kadam"
